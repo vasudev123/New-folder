@@ -1,0 +1,15 @@
+{
+  "name": "k6-project",
+  "version": "1.0.0",
+  "description": "A K6 project for load testing",
+  "main": "scripts/main.js",
+  "scripts": {
+    "test": "k6 run scripts/main.js"
+  },
+  "dependencies": {
+    "k6": "^0.34.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
